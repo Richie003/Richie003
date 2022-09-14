@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Richie003
-- 👀 I’m interested in Web design and Machine learning
-- 🌱 I’m currently learning OPENCV PYTHON
-- 💞️ I’m looking to collaborate on 
+-  I’m interested in Web development and Machine learning
+- 📷 I’m currently learning OPENCV PYTHON
+- 💞️ I’m looking to collaborate on your project
 - 📫 Email: richiedilosi2003@gmail.com
 
 <!---
