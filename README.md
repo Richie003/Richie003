@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Richie003
+# 👋 Hi, I’m Richfield Dilosi.
 > A Computer Scientist with experience in diverse computer software fields. A strong passion for delivering solutions by quickly learning, solving problems.
 
 -  💯 _I’m interested in Web development and Machine learning_
