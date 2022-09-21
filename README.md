@@ -4,7 +4,7 @@
 -  💯 _I’m interested in Web development and Machine learning_
 - 📷 _I’m currently learning OPENCV PYTHON_
 - 🤗 _I’m looking forward to collaborate on your project_
-- 📫 _email.```richiedilosi2003@gmail.com```_
+- 📫 _``richiedilosi2003@gmail.com``_
 
 <!---
 Richie003/Richie003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
