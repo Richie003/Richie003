@@ -12,10 +12,12 @@
 
 ## My Stack ![stack-svgrepo-com](https://user-images.githubusercontent.com/67489180/191628805-47486bc9-a474-4e5a-a958-cff0471ebb19.svg)
 ![python](https://user-images.githubusercontent.com/67489180/191628898-770c539c-fe20-4bb5-89ce-8506eba24b48.svg)
+![django](https://user-images.githubusercontent.com/67489180/191629509-23fd462f-646a-40c7-85e5-e12c16bf7602.svg)
 ![javascript-svgrepo-com 1](https://user-images.githubusercontent.com/67489180/191628925-a0d952b3-b80d-400e-a68e-57808ae52d09.svg)
-![flutter-svgrepo-com](https://user-images.githubusercontent.com/67489180/191628948-e52d8593-ec57-4e56-b7e7-3d2064554adb.svg)
+![css3](https://user-images.githubusercontent.com/67489180/191629503-c422a034-ce75-4666-ae55-e7d9924795a0.svg)
 ![html5](https://user-images.githubusercontent.com/67489180/191628959-eae7ad9f-bd13-4e88-a316-af9d00d8df59.svg)
-![security](https://user-images.githubusercontent.com/67489180/191628965-576e46e8-6e64-4797-b478-14d887b8290a.svg)
+![flutter-svgrepo-com](https://user-images.githubusercontent.com/67489180/191628948-e52d8593-ec57-4e56-b7e7-3d2064554adb.svg)
+
 <!---
 Richie003/Richie003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
