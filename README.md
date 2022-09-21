@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I’m Richfield Dilosi.</h3>
+<h2 align="center">👋 Hi, I’m Richfield Dilosi.</h2>
 > A Computer Scientist with experience in diverse computer software fields. A strong passion for delivering solutions by quickly learning, solving problems.
 
 -  💯 _I’m interested in Web development and Machine learning_
