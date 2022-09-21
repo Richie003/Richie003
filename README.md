@@ -10,7 +10,7 @@
 - 🤗 _I’m looking forward to collaborate on your project_
 - 📫 _``richiedilosi2003@gmail.com``_
 
-## My Stack 
+## My Stack ![stack-svgrepo-com](https://user-images.githubusercontent.com/67489180/191628805-47486bc9-a474-4e5a-a958-cff0471ebb19.svg)
 ![]()
 ![]()
 ![]()
