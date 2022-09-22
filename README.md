@@ -10,12 +10,12 @@
 </b>
 
 ## What I do
-- > I build functional web applications.
-- > I build API's and work with API's
+- > ⚙️🔥 I build functional web applications.
+- > 🔄 I build API's and work with API's
 
 ## What I don't do
-- > I don't fix printers or tv remotes.
-- > I don't hack. Terminals on my screen are for local servers not hacking.
+- > 😑I don't fix printers or tv remotes.
+- > 🚫I don't hack. Terminals on my screen are for local servers not hacking.
 
 
 
@@ -25,9 +25,9 @@
 ![python](https://user-images.githubusercontent.com/67489180/191628898-770c539c-fe20-4bb5-89ce-8506eba24b48.svg)
 ![django](https://user-images.githubusercontent.com/67489180/191629509-23fd462f-646a-40c7-85e5-e12c16bf7602.svg)
 ![javascript-svgrepo-com 1](https://user-images.githubusercontent.com/67489180/191628925-a0d952b3-b80d-400e-a68e-57808ae52d09.svg)
-![vue-svgrepo-com](https://user-images.githubusercontent.com/67489180/191630405-c30652c4-10ed-493a-81eb-0f5059940b5e.svg)
-![css3](https://user-images.githubusercontent.com/67489180/191629503-c422a034-ce75-4666-ae55-e7d9924795a0.svg)
-![html5](https://user-images.githubusercontent.com/67489180/191628959-eae7ad9f-bd13-4e88-a316-af9d00d8df59.svg)
+<img width=50 height=50 src="https://user-images.githubusercontent.com/67489180/191630405-c30652c4-10ed-493a-81eb-0f5059940b5e.svg" alt="Vue">
+<img width=50 height=50 src="https://user-images.githubusercontent.com/67489180/191628959-eae7ad9f-bd13-4e88-a316-af9d00d8df59.svg" alt="HTML">
+<img width=50 height=50 src="https://user-images.githubusercontent.com/67489180/191629503-c422a034-ce75-4666-ae55-e7d9924795a0.svg" alt="CSS">
 ![flutter-svgrepo-com](https://user-images.githubusercontent.com/67489180/191628948-e52d8593-ec57-4e56-b7e7-3d2064554adb.svg)
 <img width=50 height=50 src="https://user-images.githubusercontent.com/67489180/191630401-0a2c5c87-8892-4de3-9804-30e26557e6d3.svg" alt="Semantic-UI">
 <img width=50 height=50 src="https://user-images.githubusercontent.com/67489180/191630397-fdb6d132-0184-4c56-a875-d33585d117e9.svg" alt="Bootstrap">
