@@ -29,7 +29,7 @@
 </br>
 
 <p align="center" justify="between">
-<a href="https://www.payshop.pythonanywhere.com" target="_blank" rel"noreferrer"><img src="https://user-images.githubusercontent.com/67489180/191627512-52535ab5-0a12-4cc9-93e4-b959e012d85c.svg" alt="header"/></a><a href="https://www.fms.pythonanywhere.com" target="_blank" rel"noreferrer"><img src="https://user-images.githubusercontent.com/67489180/191627512-52535ab5-0a12-4cc9-93e4-b959e012d85c.svg" alt="header"/></a></p>
+<a href="https://www.payshop.pythonanywhere.com" target="_blank" rel"noreferrer"><img width=550 height=250 src="https://user-images.githubusercontent.com/67489180/191634112-62845d13-1573-4a0c-91d9-3c1edbcca094.PNG" alt="header"/></a><a href="https://www.fms.pythonanywhere.com" target="_blank" rel"noreferrer"><img src="https://user-images.githubusercontent.com/67489180/191627512-52535ab5-0a12-4cc9-93e4-b959e012d85c.svg" alt="header"/></a></p>
 
 <!---
 Richie003/Richie003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
