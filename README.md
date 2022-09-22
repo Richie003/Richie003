@@ -53,9 +53,9 @@
 </br>
 
 <p align="center" style="display:flex;">
-<a href="https://www.payshop.pythonanywhere.com" target="_blank" rel"noreferrer"><img width=550 height=250 style="padding:1.5rem; object-fit:contain;" src="https://user-images.githubusercontent.com/67489180/191634112-62845d13-1573-4a0c-91d9-3c1edbcca094.PNG" alt="header"/></a></p>
+<a href="https://payshop.pythonanywhere.com/" target="_blank" rel"noreferrer"><img width=550 height=250 style="padding:1.5rem; object-fit:contain;" src="https://user-images.githubusercontent.com/67489180/191634112-62845d13-1573-4a0c-91d9-3c1edbcca094.PNG" alt="header"/></a></p>
 <p align="center">
-<a href="https://www.fms.pythonanywhere.com" target="_blank" rel"noreferrer"><img width=550 height=250 style="padding:1.5rem; object-fit:contain;" src="https://user-images.githubusercontent.com/67489180/191634109-0ab3d368-d7a3-4cba-86d2-f9a02b2adb73.PNG" alt="header"/></a>
+<a href="https://fms.pythonanywhere.com/" target="_blank" rel"noreferrer"><img width=550 height=250 style="padding:1.5rem; object-fit:contain;" src="https://user-images.githubusercontent.com/67489180/191634109-0ab3d368-d7a3-4cba-86d2-f9a02b2adb73.PNG" alt="header"/></a>
 </p>
 
 <!---
