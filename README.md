@@ -35,9 +35,9 @@
 </br>
 
 ## I'm currently learning
-- Web3,
-- Cyber security and
-- Computer vision with python openCV.
+- 🪙Web3,
+- 🛡️Cyber security and
+- 👁️Computer vision with python openCV.
 
 </br>
 
