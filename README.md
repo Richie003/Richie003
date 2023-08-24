@@ -5,13 +5,13 @@
 
 </br>
 
-> I'm a Computer Scientist with experience in diverse computer software fields. I have a strong passion for delivering solutions by quickly learning, solving problems.
+> I'm a Computer Scientist with experience in diverse computer software fields. I have a strong passion for delivering solutions by quickly learning, and solving problems.
 
 </b>
 
 ## What I do
 - > ⚙️🔥 I build functional web applications.
-- > 🔄 I build API's and work with API's
+- > 🔄 I build APIs and work with APIs
 
 ## What I don't do
 - > 😑I don't fix printers or tv remotes.
@@ -37,26 +37,15 @@
 ## I'm currently learning
 - 🪙Web3,
 - 🛡️Cyber security and
-- 👁️Computer vision with python openCV.
+- 👁️Computer vision with Python openCV.
 
 </br>
 
 ## I'm working on
-- An API for React app to POST and GET data to my Django server.
-- A University portal for students.
+- I'm working on myself ;) .
 </br>
 
-
-## Recent Projects
-> Click on the image for a better view.
-
-</br>
-
-<p align="center" style="display:flex;">
-<a href="https://payshop.pythonanywhere.com/" target="_blank" rel"noreferrer"><img width=550 height=250 style="padding:1.5rem; object-fit:contain;" src="https://user-images.githubusercontent.com/67489180/191634112-62845d13-1573-4a0c-91d9-3c1edbcca094.PNG" alt="header"/></a></p>
-<p align="center">
-<a href="https://fms.pythonanywhere.com/" target="_blank" rel"noreferrer"><img width=550 height=250 style="padding:1.5rem; object-fit:contain;" src="https://user-images.githubusercontent.com/67489180/191634109-0ab3d368-d7a3-4cba-86d2-f9a02b2adb73.PNG" alt="header"/></a>
-</p>
+---
 
 <!---
 Richie003/Richie003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
